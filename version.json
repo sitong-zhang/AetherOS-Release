@@ -1,0 +1,14 @@
+{
+  "project": "AetherOS",
+  "version": "2.0.2",
+  "tag": "v2.0.2",
+  "size": 4017005206,
+  "sha256": "4536764819f2edb6f054c0af453808b26e6f7d4760dec153b80a623c271b6fe7",
+  "parts": [
+    "AetherOS-2.0.2.apk.001",
+    "AetherOS-2.0.2.apk.002",
+    "AetherOS-2.0.2.apk.003"
+  ],
+  "release_notes": "AetherOS 2.0.2：修复系统返回键无法退出应用商店、修复商店下载进度长时间卡在 0% 的问题。安装包体积较大（约 3.8GB），已拆分为 3 卷通过本仓库分发。",
+  "updated": "2026-10-08"
+}
