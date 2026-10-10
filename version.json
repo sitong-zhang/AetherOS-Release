@@ -15,5 +15,14 @@
     1339001734
   ],
   "release_notes": "AetherOS 2.0.2：修复系统返回键无法退出应用商店、修复商店下载进度长时间卡在 0% 的问题。安装包体积较大（约 3.8GB），已拆分为 3 卷通过本仓库分发。",
-  "updated": "2026-10-08"
+  "updated": "2026-10-08",
+  "shell": {
+    "package": "org.aetheros.shell",
+    "version_name": "1.0.16",
+    "version_code": 16,
+    "file": "AetherOS-Shell-1.0.16.apk",
+    "size": 4683219,
+    "sha256": "434a1cc6e226cd02bddf374962b75d6a6ffbe128ade4fb5ecd6cdece17dbba59",
+    "desc": "AetherOS 品牌外壳（空壳）：液态玻璃桌面/锁屏 UI，内置「系统更新」可从本地三卷合并并安装内核 2.0.2。装好默认是空壳，需装内核才能进入完整系统。"
+  }
 }
